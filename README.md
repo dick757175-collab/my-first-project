@@ -1,5 +1,4 @@
 # About my first project on GitHub
-## This is my first project on GitHub
 Hello everyone! My name is Li Ming, and I am a 14-year-old student. I am very glad to introduce myself to all of you.
 I am a sunny and friendly boy. I always keep a smile on my face and love making new friends. In study, I am hard-working and careful. I like thinking independently and discussing problems with my classmates. I believe persistence can help me make progress every day. Although I may have some shortcomings in my study, I will keep trying my best to improve myself.
 I have many hobbies that make my life colorful. Reading is my favorite hobby. I love reading storybooks and science books, because they open a new world for me and teach me lots of knowledge. Besides, I like playing basketball in my spare time. It not only makes my body strong and healthy, but also teaches me the importance of teamwork. On weekends, I also enjoy helping my parents do housework.
